@@ -3,7 +3,7 @@
     border: 3px solid blue;
     flex-wrap: wrap;
 }
-.section {
+.flex-container > div {
     width: 75px;
     height: 75px;
     background-color: lightblue;
